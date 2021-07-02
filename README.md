@@ -18,12 +18,12 @@ Here tickerEndingPrices(tickerIndex) stores the ending prices of the selected ti
 The Returns of the all the tickers except TERP has a positive return. DQ has the highest positive return of 199.4% 
 
 ### Screenshot of 2017 Stock Performance:
-![2017 Stock Performance Analysis]()
+<img width="1440" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/83719443/124291764-e4dd2000-db22-11eb-9f99-9c3dff794b05.png">
 
-## Analysis based on Goals:
-Baesd on the goal amount, number of campaigns which have been successful, failed, cancelled have been calculated. The Total projectsis the sum of the successful, failed, cancelled campaigns.Also the % of all these outcomes has been calculated.COUNTIFS is used to here to calculate the number of campaigns for all the goal amounts in all the outcomes in the"plays" subcategory. A line chart has been created which covers the goals, % successful, % failed, % canceled. We can see that when the goal amount<1000$ , the campaign tends to be the most successful. When the goal amount is more than 40000$, the campaign tends to fail.
+### Stock Performance of 2018
+Only the tickers ENPH and RUN has a positive return. All the other tickers has a negative return being JKS with the negative return of -60.5%
 
-### Challenges which could be encountered:
+### Screenshot of 2018 Stock Performance
 
 The wanted columns have to be plotted for the chart. Otherwise the chart will be formed for the entire table which leads to inaccurate values.
 
