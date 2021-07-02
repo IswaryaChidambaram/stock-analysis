@@ -24,14 +24,15 @@ Here tickerEndingPrices(tickerIndex) stores the ending prices of the selected ti
 The Returns of the all the tickers except TERP has a positive return. DQ has the highest positive return of 199.4% 
 
 ### Screenshot of 2017 Stock Performance:
-<img width="1440" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/83719443/124291764-e4dd2000-db22-11eb-9f99-9c3dff794b05.png">
+![Screenshot of 2017 Stock Performance](Resources/VBA_Challenge_2017.png)
+
 
 ### Stock Performance of 2018
 Only the tickers ENPH and RUN has a positive return. All the other tickers has a negative return being JKS with the negative return of -60.5%
 
 ### Screenshot of 2018 Stock Performance
+![Screenshot of 2018 Stock Performance](Resources/VBA_Challenge_2018.png)
 
-<img width="1440" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/83719443/124292662-d2afb180-db23-11eb-86ad-8e9a60b9aa61.png">
 
 ## Summary:
 
